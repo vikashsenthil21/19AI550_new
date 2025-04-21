@@ -1,7 +1,7 @@
 # Ex.No: 6  Implementation of Steering behaviour-Pursue and Evade in Unity
 ### DATE:           
-### NAME: GANESH R
-### REGISTER NUMBER : 212222240029
+### NAME: VIKASH S
+### REGISTER NUMBER : 212222240115
 ### AIM: 
 To write a program to simulate the process of Pursue and Evade behavior in Unity using NavigationMeshAgent. 
 ### Algorithm:

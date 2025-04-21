@@ -1,7 +1,7 @@
 # Ex.No: 4  Create a player Movement Script in unity 
 ### DATE:     
-### NAME: GANESH R
-### REGISTER NUMBER : 212222240029
+### NAME: vikash s
+### REGISTER NUMBER : 212222240115
 ### AIM: 
 To write a program to create a player movement in unity.
 ### Algorithm:

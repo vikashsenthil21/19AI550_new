@@ -1,6 +1,7 @@
 # Ex.No: 9  Implementation of Simple Reinforcement Learning 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE:     
+### NAME: VIKASH S
+### REGISTER NUMBER : 212222240115
 ### AIM: 
 To write a program to implement  Reinforcement learning  in Unity 
 ### Algorithm:

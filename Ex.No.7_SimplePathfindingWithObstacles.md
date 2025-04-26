@@ -1,7 +1,7 @@
 # Ex.No: 7  Implementation of Simple Pathfinding with Obstacles
-### DATE:  25-04-2025             
-### Name : Aakashraj M                                                         
-### REGISTER NUMBER : 212222100002
+### DATE:              
+### Name : Vikash s                                                        
+### REGISTER NUMBER : 212222240115
 ### AIM: 
 To write a program to pathfinding using AI navigation 
 ### Algorithm:
